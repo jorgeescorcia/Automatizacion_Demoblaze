@@ -1,4 +1,4 @@
-package com.co.tevolvers.userinterface.dxhotels;
+package com.co.enlace.userinterface.demozable;
 
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
@@ -8,24 +8,16 @@ public class Login extends PageObject {
 
 
     public static final Target BTN_LOGIN =
-            Target.the("BTNLogin").locatedBy("//div[@id='HeaderControl_Login_CD']");
+            Target.the("BTNLogin").locatedBy("//a[@id='login2']");
 
-    public static final Target EMAIL =
-            Target.the("BTNLogin").locatedBy("//input[@id='HeaderControl_LogonControl_LoginFormLayout_txtEmail_I']");
+    public static final Target USERNAME =
+            Target.the("BTNLogin").locatedBy("//input[@id='loginusername']");
 
     public static final Target PASSWORD =
-            Target.the("BTNLogin").locatedBy("//input[@id='HeaderControl_LogonControl_LoginFormLayout_txtPassword_I_CLND']");
+            Target.the("BTNLogin").locatedBy("//input[@id='loginpassword']");
 
-    public static final Target CAPTCHA =
-            Target.the("BTNLogin").locatedBy("//img[@id='HeaderControl_LogonControl_LoginFormLayout_Captcha_IMG']");
-
-    public static final Target CODE =
-            Target.the("BTNLogin").locatedBy("//input[@id='HeaderControl_LogonControl_LoginFormLayout_Captcha_TB_I']");
-
-    public static final Target BTNLOGINSUBMIT =
-            Target.the("BTNLogin").locatedBy("//div[@id='HeaderControl_LogonControl_btnLoginNow_CD']");
-
-
+    public static final Target BOTON_LOGIN=
+            Target.the("BTNLogin").locatedBy("//button[contains(text(),'Log in')]");
 
 
 

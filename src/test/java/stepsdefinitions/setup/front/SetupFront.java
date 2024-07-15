@@ -7,7 +7,7 @@ import net.serenitybdd.screenplay.actors.Cast;
 
 import org.openqa.selenium.WebDriver;
 
-import static com.co.tevolvers.utils.front.Diccionario.ACTOR_NAME;
+import static com.co.enlace.utils.front.Diccionario.ACTOR_NAME;
 import static net.serenitybdd.screenplay.actors.OnStage.*;
 
 public class SetupFront {

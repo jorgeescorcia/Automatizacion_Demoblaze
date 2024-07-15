@@ -7,7 +7,7 @@ import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Open;
 
 
-import static com.co.tevolvers.utils.front.Diccionario.URL_BASE;
+import static com.co.enlace.utils.front.Diccionario.URL_BASE;
 
 public class AbrirWeb implements Task {
 

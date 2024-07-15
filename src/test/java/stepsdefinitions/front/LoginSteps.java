@@ -4,6 +4,7 @@ package stepsdefinitions.front;
 import com.co.enlace.task.front.AbrirWeb;
 
 
+import com.co.enlace.task.front.Loguearse;
 import io.cucumber.java.Before;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
@@ -28,6 +29,7 @@ public class LoginSteps extends SetupFront {
     }
     @Cuando("el usuario ingresa un nombre de usuario y una contrasena validos")
     public void el_usuario_ingresa_un_nombre_de_usuario_y_una_contrasena_validos() {
+        theActorInTheSpotlight().wasAbleTo(Loguearse.loguearse());
 
     }
     @Entonces("el usuario debe tener acceso a la pagina de inicio")

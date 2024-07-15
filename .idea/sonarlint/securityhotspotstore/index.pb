@@ -21,3 +21,13 @@ d
 4src/main/java/com/co/enlace/task/front/AbrirWeb.java,3\8\388acfb911b062d9a850bb1c5f025eef9604af39
 n
 >src/main/java/com/co/enlace/userinterface/demozable/Login.java,6\b\6b3901b5773bf4df492690cc0bb70ec16c372fae
+g
+7src/test/java/stepsdefinitions/front/RegistroSteps.java,3\e\3ec0a9b812ed80e94d22f815c111ae957d6ec792
+q
+Asrc/main/java/com/co/enlace/userinterface/demozable/Registro.java,c\c\cc0fd2957d0aeb0d4ed5cc1c4d59bfcee045e45c
+g
+7src/main/java/com/co/enlace/task/front/Registrarse.java,f\0\f0005841ed4dc1fd292f4ee8dc2c04c4184012c4
+c
+3src/test/java/runners/front/TestRunnerRegistro.java,8\3\83d9c78b60aa4c8031ab06a5f6da0aa5987cd942
+e
+5src/main/java/com/co/enlace/task/front/Loguearse.java,e\b\eb8c9a3cc7a2ca06c8901ecebfc6fc796e4c08b7
