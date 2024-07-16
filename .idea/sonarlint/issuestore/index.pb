@@ -31,3 +31,11 @@ c
 3src/test/java/runners/front/TestRunnerRegistro.java,8\3\83d9c78b60aa4c8031ab06a5f6da0aa5987cd942
 e
 5src/main/java/com/co/enlace/task/front/Loguearse.java,e\b\eb8c9a3cc7a2ca06c8901ecebfc6fc796e4c08b7
+r
+Bsrc/main/java/com/co/enlace/userinterface/demozable/Productos.java,9\9\99abd60044f1d8774bf85a1c258f593c47c10491
+o
+?src/test/java/stepsdefinitions/front/AgregarProductosSteps.java,f\e\fe98e71a287d5eb42c592ebf4d149d5d7ee00749
+l
+<src/main/java/com/co/enlace/task/front/EscogerProductos.java,9\3\9307afbadce8d95d74b9320ab473721745657387
+k
+;src/test/java/runners/front/TestRunnerAgregarProductos.java,7\f\7f8b8e0b420627a12ac2f0aa020fe61e1343b284
