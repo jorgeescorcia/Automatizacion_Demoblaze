@@ -32,18 +32,9 @@ public class LoginSteps extends SetupFront {
         theActorInTheSpotlight().wasAbleTo(Loguearse.loguearse());
 
     }
-    @Entonces("el usuario debe tener acceso a la pagina de inicio")
-    public void el_usuario_debe_tener_acceso_a_la_pagina_de_inicio() {
 
-    }
-    @Entonces("si el usuario ingresa los datos incorrectos")
-    public void si_el_usuario_ingresa_los_datos_incorrectos() {
 
-    }
-    @Entonces("no debe ingresar a la web")
-    public void no_debe_ingresar_a_la_web() {
 
-    }
 
 
 

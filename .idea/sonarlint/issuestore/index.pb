@@ -39,3 +39,7 @@ l
 <src/main/java/com/co/enlace/task/front/EscogerProductos.java,9\3\9307afbadce8d95d74b9320ab473721745657387
 k
 ;src/test/java/runners/front/TestRunnerAgregarProductos.java,7\f\7f8b8e0b420627a12ac2f0aa020fe61e1343b284
+r
+Bsrc/main/java/com/co/enlace/questions/front/SumaTotalCorrecta.java,2\7\27a8ecadb9ecd93b2c24acc083ddca2c99d34c0a
+m
+=src/main/java/com/co/enlace/questions/front/SumaCorrecta.java,e\6\e62f19f2fb1ad4d7eeddeef022dacff4994a46bf

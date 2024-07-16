@@ -8,8 +8,7 @@ import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Switch;
 
 import static com.co.enlace.userinterface.demozable.Registro.*;
-import static com.co.enlace.utils.front.Diccionario.EMAIL_LOGIN;
-import static com.co.enlace.utils.front.Diccionario.PASSWORD_LOGIN;
+import static com.co.enlace.utils.front.Diccionario.*;
 
 public class Registrarse implements Task {
     @Override
@@ -17,8 +16,8 @@ public class Registrarse implements Task {
 
         actor.wasAbleTo(
                 Click.on(BTN_SIGN_UP),
-                Enter.theValue(EMAIL_LOGIN).into(BTN_USERNAME_REGISTRO),
-                Enter.theValue(PASSWORD_LOGIN).into(BTN_PASSWORD_REGISTRO),
+                Enter.theValue(USER_REGISTRO).into(BTN_USERNAME_REGISTRO),
+                Enter.theValue(PASSWORD_REGISTRO).into(BTN_PASSWORD_REGISTRO),
                 Click.on(BTN_REGISTRO),
                 Switch.toAlert().andAccept()
         );
