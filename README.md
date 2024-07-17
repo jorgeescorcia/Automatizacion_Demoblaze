@@ -8,6 +8,7 @@ Este repositorio contiene la automatización de pruebas para una aplicación web
 
 # Requisitos Para Ejecucion
 - Clonar Repositorio
+https://github.com/jorgeescorcia/Automatizacion_Demoblaze
 # Login
 Ejecutas el TestRunnerLogin.java y verificaras que la funcion login, se loguea exitosamente
 # Registro
