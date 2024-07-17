@@ -8,6 +8,13 @@ Este repositorio contiene la automatización de pruebas para una aplicación web
 
 # Requisitos Para Ejecucion
 - Clonar Repositorio
+# Login
+Ejecutas el TestRunnerLogin.java y verificaras que la funcion login, se loguea exitosamente
+# Registro
+Para el registro ejecutas el TestRunnerRegistro.java el cual utiliza datos aleatorios para dicho registro utilizando la libreria faker
+# Agregar Productos al carrito
+Para probar esta funcionalidad ejecutas TestRunnerAgregarProductos.java, el cual se registra con datos aleatorios generados por faker y se loguea con los mismos datos, tambien agrega los productos al carrito y hace la suma de los mismos
+
 # Stack Utilizado
 
 - Java Development Kit (JDK) 11
